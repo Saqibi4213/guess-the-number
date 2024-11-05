@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    width: 13rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+button {
+    padding: 10px 16px;
+    background-color: cyan;
+    border: 1px solid gray;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.btn {
+    cursor: not-allowed;
+}
